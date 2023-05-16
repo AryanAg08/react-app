@@ -6,7 +6,7 @@ function App() {
       <header className="App-header">
         <img src="https://www.propelleraero.com/wp-content/uploads/2021/05/Vector.svg" className="App-logo" alt="logo" />
         <p>
-          Task One!! propelleraero
+          Task One!! Propelleraero
         </p>
         <a
           className="App-link"
@@ -14,7 +14,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          propelleraero link
+          Propelleraero Link 
         </a>
       </header>
     </div>
